@@ -1,0 +1,13 @@
+C:\Users\woodl\Documents\Avanade Csharp\Distancia_DIO\bin\Debug\netcoreapp3.1\Distancia_DIO.exe
+C:\Users\woodl\Documents\Avanade Csharp\Distancia_DIO\bin\Debug\netcoreapp3.1\Distancia_DIO.deps.json
+C:\Users\woodl\Documents\Avanade Csharp\Distancia_DIO\bin\Debug\netcoreapp3.1\Distancia_DIO.runtimeconfig.json
+C:\Users\woodl\Documents\Avanade Csharp\Distancia_DIO\bin\Debug\netcoreapp3.1\Distancia_DIO.runtimeconfig.dev.json
+C:\Users\woodl\Documents\Avanade Csharp\Distancia_DIO\bin\Debug\netcoreapp3.1\Distancia_DIO.dll
+C:\Users\woodl\Documents\Avanade Csharp\Distancia_DIO\bin\Debug\netcoreapp3.1\Distancia_DIO.pdb
+C:\Users\woodl\Documents\Avanade Csharp\Distancia_DIO\obj\Debug\netcoreapp3.1\Distancia_DIO.csprojAssemblyReference.cache
+C:\Users\woodl\Documents\Avanade Csharp\Distancia_DIO\obj\Debug\netcoreapp3.1\Distancia_DIO.csproj.CoreCompileInputs.cache
+C:\Users\woodl\Documents\Avanade Csharp\Distancia_DIO\obj\Debug\netcoreapp3.1\Distancia_DIO.AssemblyInfoInputs.cache
+C:\Users\woodl\Documents\Avanade Csharp\Distancia_DIO\obj\Debug\netcoreapp3.1\Distancia_DIO.AssemblyInfo.cs
+C:\Users\woodl\Documents\Avanade Csharp\Distancia_DIO\obj\Debug\netcoreapp3.1\Distancia_DIO.dll
+C:\Users\woodl\Documents\Avanade Csharp\Distancia_DIO\obj\Debug\netcoreapp3.1\Distancia_DIO.pdb
+C:\Users\woodl\Documents\Avanade Csharp\Distancia_DIO\obj\Debug\netcoreapp3.1\Distancia_DIO.genruntimeconfig.cache
