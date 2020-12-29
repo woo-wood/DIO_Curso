@@ -1,0 +1,13 @@
+C:\Users\woodl\Documents\Avanade Csharp\DesafioMandioca\bin\Debug\netcoreapp3.1\DesafioMandioca.exe
+C:\Users\woodl\Documents\Avanade Csharp\DesafioMandioca\bin\Debug\netcoreapp3.1\DesafioMandioca.deps.json
+C:\Users\woodl\Documents\Avanade Csharp\DesafioMandioca\bin\Debug\netcoreapp3.1\DesafioMandioca.runtimeconfig.json
+C:\Users\woodl\Documents\Avanade Csharp\DesafioMandioca\bin\Debug\netcoreapp3.1\DesafioMandioca.runtimeconfig.dev.json
+C:\Users\woodl\Documents\Avanade Csharp\DesafioMandioca\bin\Debug\netcoreapp3.1\DesafioMandioca.dll
+C:\Users\woodl\Documents\Avanade Csharp\DesafioMandioca\bin\Debug\netcoreapp3.1\DesafioMandioca.pdb
+C:\Users\woodl\Documents\Avanade Csharp\DesafioMandioca\obj\Debug\netcoreapp3.1\DesafioMandioca.csprojAssemblyReference.cache
+C:\Users\woodl\Documents\Avanade Csharp\DesafioMandioca\obj\Debug\netcoreapp3.1\DesafioMandioca.csproj.CoreCompileInputs.cache
+C:\Users\woodl\Documents\Avanade Csharp\DesafioMandioca\obj\Debug\netcoreapp3.1\DesafioMandioca.AssemblyInfoInputs.cache
+C:\Users\woodl\Documents\Avanade Csharp\DesafioMandioca\obj\Debug\netcoreapp3.1\DesafioMandioca.AssemblyInfo.cs
+C:\Users\woodl\Documents\Avanade Csharp\DesafioMandioca\obj\Debug\netcoreapp3.1\DesafioMandioca.dll
+C:\Users\woodl\Documents\Avanade Csharp\DesafioMandioca\obj\Debug\netcoreapp3.1\DesafioMandioca.pdb
+C:\Users\woodl\Documents\Avanade Csharp\DesafioMandioca\obj\Debug\netcoreapp3.1\DesafioMandioca.genruntimeconfig.cache
